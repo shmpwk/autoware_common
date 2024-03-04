@@ -45,5 +45,5 @@ jobs:
           sync-pr-branch: sync-upstream
           sync-target-repository: https://github.com/tier4/autoware_common.git
           sync-target-branch: awf-latest
-          pr-title: "chore: sync tier4/autoware_common:awf-latest"
+          pr-title: "chore: sync shmpwk/autoware_common:awf-latest"
           auto-merge-method: merge
