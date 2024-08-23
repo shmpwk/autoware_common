@@ -79,7 +79,7 @@ repos:
         exclude: .cu
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.29.1
+    rev: 0.29.2
     hooks:
       - id: check-metaschema
         files: ^.+/schema/.*schema\.json$
